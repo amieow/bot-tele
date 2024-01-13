@@ -1,0 +1,79 @@
+name: Bahasa Indonesia 🇮🇩
+invalid_input: |
+  Input tidak valid. Anda harus mengikuti petunjuk yang diberikan.
+about_developer: |
+  📣 <b>About Developer</b>
+  IDK
+greeting: |
+  <b>Halo!</b> Selamat datang di bot kami. Mari kita mulai!
+
+  🌐 Untuk mengganti bahasa, cukup gunakan menu inline di bawah ini:
+  - 🇺🇸 Bahasa Inggris
+  - 🇮🇩 Bahasa Indonesia 
+  - 🇷🇺 Rusia
+  - 🇹🇷 Turki
+
+  🚀 Jelajahi fitur-fitur bot kami dan jangan ragu untuk bertanya. Selamat menikmati pengalaman Anda!
+menu: |
+  <b>Selamat datang!</b> Silakan pilih salah satu opsi berikut untuk menjelajahi lebih lanjut:
+
+  1. 📞 <b>Kontak</b>
+    - Perlu menghubungi kami? Berikut cara menghubungi kami.
+
+  2. ℹ️ <b>Tentang Developer</b>
+    - Pelajari lebih lanjut tentang developer di balik bot ini.
+
+  3. ❓ <b>FAQ</b>
+    - Temukan jawaban untuk pertanyaan yang sering diajukan.
+
+  4. 🛠️ <b>Layanan Kami</b>
+    - Jelajahi layanan-layanan yang kami tawarkan.
+faq-0: |
+  <b>❓ Pertanyaan yang Sering Diajukan (FAQ):</b>
+  1. Q: Bagaimana cara menggunakan bot kami?
+     A: Cukup ikuti petunjuk yang tertera dalam menu.
+
+  2. Q: Apa saja layanan yang kami tawarkan?
+     A: Kami menawarkan berbagai layanan. Anda dapat mengecek semua layanan kami dengan memilih "Layanan Kami".
+
+  3. Q: Bagaimana cara mengganti bahasa?
+     A: Gunakan menu inline dan pilih bahasa yang Anda inginkan.
+
+  4. Q: Bisakah saya menyesuaikan pengaturan bot?
+     A: Saat ini, opsi penyesuaian terbatas. Namun, kami sedang mengembangkannya.
+
+  5. Q: Apakah bot ini tersedia 24/7?
+     A: Ya, bot ini dirancang untuk tersedia sepanjang waktu.
+services: |
+  🛠️ <b>My Services:</b>
+  1. 
+  2.
+  3.
+give_question: |
+  🤔 <b>Ada pertanyaan lain? Jangan ragu untuk bertanya!</b>
+  Cukup ketik pertanyaan Anda dan akan kami kirimkan ke developer
+
+  ⚠️ <b>Catatan Penting:</b>
+  Harap dicatat bahwa Anda hanya dapat mengirimkan pertanyaan teks. Foto dan lampiran tidak didukung.
+
+  📢 <b>Ingin berbagi lebih banyak pertanyaan atau memiliki pertanyaan tertentu?</b>
+  Jika Anda perlu memberikan pertanyaan tambahan atau memiliki pertanyaan tertentu, silakan hubungi developer langsung melalui Telegram: <link href="https://t.me/amieowdev">Hubungi Developer</link>.
+question_send: |
+  Terima kasih atas pertanyaannya! Pertanyaan Anda telah dikirimkan ke developer.
+feedback_intro: |
+  <b>📣 Umpan Balik:</b>
+  Umpan balik Anda sangat berharga bagi kami! Bagikan pemikiran, saran, atau laporkan masalah dengan memilih opsi "Beri Umpan Balik" di menu.
+
+give_feedback: |
+  <b>📣 Beri Umpan Balik:</b>
+  Saya di sini untuk mendengarkan semua pesan dan saran Anda. Bagikan pemikiran Anda dengan kami!
+
+  ⚠️ <b>Pemberitahuan Penting:</b>
+  Harap dicatat bahwa Anda hanya dapat mengirim umpan balik berupa teks. Foto dan lampiran tidak didukung.
+
+  📢 <b>Ingin memberikan lebih banyak umpan balik atau memiliki kekhawatiran khusus?</b>
+  Jika Anda perlu memberikan umpan balik tambahan atau memiliki masalah tertentu yang ingin dilaporkan, jangan ragu untuk menghubungi developer langsung melalui Telegram: <a href="https://t.me/amieowdev">Hubungi Developer</a>.
+feedback_empty: |
+  Belum ada umpan balik dari pengguna lain. Jadilah yang pertama kali membagikan pemikiran Anda dan bantu kami meningkatkan pengalaman Anda!
+error-sending-msg: |
+  Terjadi kesalahan saat mengirimkan pesan

@@ -1,0 +1,85 @@
+name: 'English 🇺🇸'
+invalid_input: |
+  Invalid input. You must follow the instructions provided.
+about_developer: |
+  📣 <b>About Developer</b>
+
+greeting: |
+  Hello there! Welcome to our bot. Let's get started!
+
+  🌐 To change your language, simply use the inline menu below:
+  - 🇺🇸 English
+  - 🇮🇩 Bahasa Indonesia 
+  - 🇷🇺 Русский
+  - 🇹🇷 Türkçe
+
+  🚀 Explore our bot's features and feel free to ask any questions. Enjoy your experience!
+contact: |
+  📞 <b>Contact</b>
+  - Need to get in touch with me? Here's how you can contact.
+  - 📱 Telegram: <a href="https://t.me/amieowdev">@amieowdev</a>
+menu: |
+  Welcome! Please choose one of the following options to explore more:
+
+  1. 📞 <b>Contact</b>
+    - Need to get in touch with us? Here's how you can contact us.
+
+  2. ℹ️ <b>About Developer</b>
+    - Learn more about the developer behind this bot.
+
+  3. ❓ <b>FAQ</b>
+    - Find answers to frequently asked questions.
+
+  4. 🛠️ <b>My Services</b>
+    - Explore the services we offer.
+faq-0: |
+  ❓ <b>Frequently Asked Questions (FAQ):</b>
+  1. Q: How to use our bot?
+     A: Simply follow the instructions provided in the menu.
+
+  2. Q: What services do we offer?
+     A: We offer a range of services, You can check all of our services by selecting "My Services".
+
+  3. Q: How to change the language?
+     A: Use the inline menu and select the language of your choice.
+
+  4. Q: Can I customize bot settings?
+     A: Currently, customization options are limited. However, we are working on expanding them.
+
+  5. Q: Is the bot available 24/7?
+     A: Yes, the bot is designed to be available around the clock.
+services: |
+  🛠️ <b>My Services:</b>
+  1. 
+  2.
+  3.
+question_reply_developer: |
+  🤔 <b>Question received! Developer reply you 👏.</b>
+give_question: |
+  🤔 <b>Have more questions? Feel free to ask!</b>
+  Simply type your question and will send it to the developer
+
+  ⚠️ <b>Important Notice:</b>
+  Please note that you can only send text questions. Photos and attachments are not supported.
+
+  📢 <b>Want to share more questions or have a specific question?</b>
+  If you need to provide additional questions or have a specific question, feel free to contact the developer directly via Telegram: <a href="https://t.me/amieowdev">Contact Developer</a>.
+question_send: |
+  Thanks for your question! Your question has been sent to the developer.
+feedback_intro: |
+  📣 <b>Feedback:</b>
+  Your feedback is valuable to us! Share your thoughts, suggestions, or report issues by selecting the "Give Feedback" option in the menu.
+
+give_feedback: |
+  📣 <b>Give Feedback:</b>
+  I'm here to listen to all your messages and suggestions. Share your thoughts with us!
+
+  ⚠️ <b>Important Notice:</b>
+  Please note that you can only send text feedback. Photos and attachments are not supported.
+
+  📢 <b>Want to share more feedback or have a specific concern?</b>
+  If you need to provide additional feedback or have a specific issue to report, feel free to contact the developer directly via Telegram: <a href="https://t.me/amieowdev">Contact Developer</a>.
+feedback_empty: |
+  No feedback from other users yet. Be the first to share your thoughts and help us enhance your experience!
+error-sending-msg: |
+  Error while sending message

@@ -1,0 +1,79 @@
+name: Türkçe 🇹🇷
+invalid_input: |
+  Geçersiz giriş. Verilen talimatları takip etmelisiniz.
+about_developer: |
+  📣 <b>About Developer</b>
+  IDK
+greeting: |
+  <b>Merhaba!</b> Botumuza hoş geldiniz. Hadi başlayalım!
+
+  🌐 Dilinizi değiştirmek için lütfen aşağıdaki iç içe menüyü kullanın:
+  - 🇺🇸 İngilizce
+  - 🇮🇩 Endonezyaca
+  - 🇷🇺 Rusça
+  - 🇹🇷 Türkçe
+
+  🚀 Botumuzun özelliklerini keşfedin ve sorular sormaktan çekinmeyin. Deneyiminizin keyfini çıkarın!
+menu: |
+  <b>Hoş geldiniz!</b> Lütfen daha fazla keşfetmek için aşağıdaki seçeneklerden birini seçin:
+
+  1. 📞 <b>İletişim</b>
+    - Bizimle iletişime geçmeniz mi gerekiyor? İşte bize nasıl ulaşabilirsiniz.
+
+  2. ℹ️ <b>Geliştirici Hakkında</b>
+    - Bu botun arkasındaki geliştirici hakkında daha fazla bilgi edinin.
+
+  3. ❓ <b>SSS</b>
+    - Sıkça sorulan soruların cevaplarına ulaşın.
+
+  4. 🛠️ <b>Hizmetlerimiz</b>
+    - Sunduğumuz hizmetleri keşfedin.
+faq-0: |
+  <b>❓ Sıkça Sorulan Sorular (SSS):</b>
+  1. S: Botumuzu nasıl kullanabilirim?
+     C: Menüde verilen talimatları takip edin.
+
+  2. S: Hangi hizmetleri sunuyoruz?
+     C: Bir dizi hizmet sunuyoruz. "Hizmetlerimiz"i seçerek tüm hizmetlerimizi kontrol edebilirsiniz.
+
+  3. S: Dil nasıl değiştirilir?
+     C: İç içe menüyü kullanın ve istediğiniz dili seçin.
+
+  4. S: Bot ayarlarını özelleştirebilir miyim?
+     C: Şu anda özelleştirme seçenekleri sınırlıdır. Ancak, bunları genişletme üzerinde çalışıyoruz.
+
+  5. S: Bot 7/24 kullanılabilir mi?
+     C: Evet, bot sürekli kullanılabilir bir şekilde tasarlanmıştır.
+services: |
+  🛠️ <b>My Services:</b>
+  1. 
+  2.
+  3.
+give_question: |
+  🤔 <b>Daha fazla sorunuz mu var? Sormaktan çekinmeyin!</b>
+  Sorunuzu sadece yazın ve geliştiriciye göndereceğiz.
+
+  ⚠️ <b>Önemli Uyarı:</b>
+  Lütfen yalnızca metin soruları gönderebileceğinizi unutmayın. Fotoğraflar ve ekler desteklenmez.
+
+  📢 <b>Daha fazla soru paylaşmak veya belirli bir sorunuz mu var?</b>
+  Ek sorularınızı iletmek veya belirli bir sorunuz varsa, geliştiriciyle doğrudan Telegram üzerinden iletişime geçmekten çekinmeyin: <link href="https://t.me/amieowdev">Geliştirici ile İletişime Geç</link>.
+question_send: |
+  Sorunuz için teşekkür ederiz! Sorunuz geliştiriciye gönderildi.
+feedback_intro: |
+  <b>📣 Geri Bildirim:</b>
+  Sizin geri bildiriminiz bizim için çok değerli! Düşüncelerinizi, önerilerinizi veya sorunları seçenekler menüsünden "Geri Bildirim Ver" seçeneğini kullanarak paylaşın.
+
+give_feedback: |
+  <b>📣 Geri Bildirim Ver:</b>
+  Buradayım, tüm mesajlarınızı ve önerilerinizi dinlemek için. Düşüncelerinizi bizimle paylaşın!
+
+  ⚠️ <b>Önemli Bildirim:</b>
+  Lütfen yalnızca metin geri bildirim gönderebileceğinizi unutmayın. Fotoğraf ve ekler desteklenmemektedir.
+
+  📢 <b>Daha fazla geri bildirim vermek veya belirli bir endişeniz mi var?</b>
+  Ek geri bildirim sağlamak veya bildirilecek belirli bir sorununuz varsa, geliştirici ile doğrudan Telegram üzerinden iletişime geçmekten çekinmeyin: <a href="https://t.me/amieowdev">Geliştirici ile İletişime Geçin</a>.
+feedback_empty: |
+  Diğer kullanıcılardan henüz geri bildirim yok. İlk olarak düşüncelerinizi paylaşan ve deneyiminizi iyileştirmemize yardımcı olan siz olun!
+error-sending-msg: |
+  Mesaj gönderilirken hata oluştu. Lütfen tekrar deneyin.
